@@ -3,4 +3,9 @@ pygments: true
 title: ZQ的博客
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+#baseurl:  # 你的网站的主页的子路径 比如:/blog
+#url:  # 你的网站的域名
 #theme: jekyll-theme-cayman
+#include:
+#  - _pages   #转换时强制包含某些文件、文件夹
+#  - blog
